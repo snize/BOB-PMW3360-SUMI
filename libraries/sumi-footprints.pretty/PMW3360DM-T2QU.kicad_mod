@@ -67,17 +67,6 @@
 		)
 	)
 	(attr through_hole)
-	(fp_rect
-		(start -16.04 -4.15)
-		(end 5.31 14.85)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(fill none)
-		(layer "Dwgs.User")
-		(uuid "6a8ead50-4df2-4059-a141-0f9b630f89ec")
-	)
 	(fp_line
 		(start -6.41 5.35)
 		(end -4.91 5.35)
@@ -120,6 +109,17 @@
 		(layer "Edge.Cuts")
 		(uuid "cf93910e-34bb-4bc4-bc94-defd0ff21d12")
 	)
+	(fp_rect
+		(start -16.04 -4.15)
+		(end 5.31 14.85)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "User.1")
+		(uuid "6a8ead50-4df2-4059-a141-0f9b630f89ec")
+	)
 	(fp_text user "Optical Center"
 		(at -8.5 4.5 0)
 		(unlocked yes)
@@ -147,7 +147,7 @@
 	)
 	(dimension
 		(type aligned)
-		(layer "Dwgs.User")
+		(layer "User.1")
 		(uuid "2e53521d-e3c8-4275-afc3-01bc3146e2a1")
 		(pts
 			(xy -16.04 -4.15) (xy -16.04 14.85)
@@ -155,7 +155,7 @@
 		(height 4.62)
 		(gr_text "19 mm"
 			(at -21.81 5.35 90)
-			(layer "Dwgs.User")
+			(layer "User.1")
 			(uuid "2e53521d-e3c8-4275-afc3-01bc3146e2a1")
 			(effects
 				(font
@@ -179,7 +179,7 @@
 	)
 	(dimension
 		(type aligned)
-		(layer "Dwgs.User")
+		(layer "User.1")
 		(uuid "74d35606-f55a-4346-9234-374c923b0815")
 		(pts
 			(xy -16.04 -4.15) (xy 5.31 -4.15)
@@ -187,7 +187,7 @@
 		(height -5.5)
 		(gr_text "21.35 mm"
 			(at -5.365 -10.8 0)
-			(layer "Dwgs.User")
+			(layer "User.1")
 			(uuid "74d35606-f55a-4346-9234-374c923b0815")
 			(effects
 				(font
@@ -211,7 +211,7 @@
 	)
 	(dimension
 		(type aligned)
-		(layer "Dwgs.User")
+		(layer "User.1")
 		(uuid "ab601ae8-2d57-40dd-b2d9-3f1abce6427b")
 		(pts
 			(xy 2.78 9.65) (xy -14.48 9.65)
@@ -219,7 +219,7 @@
 		(height -4.35)
 		(gr_text "17.26 mm"
 			(at -5.85 12.85 0)
-			(layer "Dwgs.User")
+			(layer "User.1")
 			(uuid "ab601ae8-2d57-40dd-b2d9-3f1abce6427b")
 			(effects
 				(font
@@ -244,7 +244,7 @@
 	)
 	(dimension
 		(type orthogonal)
-		(layer "Dwgs.User")
+		(layer "User.1")
 		(uuid "348fd12d-9221-4043-ad58-11047209562e")
 		(pts
 			(xy 5.31 14.85) (xy -5.66 5.35)
@@ -253,7 +253,7 @@
 		(orientation 0)
 		(gr_text "10.97 mm"
 			(at -0.175 19.2 0)
-			(layer "Dwgs.User")
+			(layer "User.1")
 			(uuid "348fd12d-9221-4043-ad58-11047209562e")
 			(effects
 				(font
@@ -277,7 +277,7 @@
 	)
 	(dimension
 		(type orthogonal)
-		(layer "Dwgs.User")
+		(layer "User.1")
 		(uuid "85c99ff3-7b1d-4014-b42a-b4e1e5d49f22")
 		(pts
 			(xy 0 0) (xy -5.66 5.35)
@@ -286,7 +286,7 @@
 		(orientation 1)
 		(gr_text "5.35 mm"
 			(at 7.5 2.675 90)
-			(layer "Dwgs.User")
+			(layer "User.1")
 			(uuid "85c99ff3-7b1d-4014-b42a-b4e1e5d49f22")
 			(effects
 				(font
@@ -311,7 +311,7 @@
 	)
 	(dimension
 		(type orthogonal)
-		(layer "Dwgs.User")
+		(layer "User.1")
 		(uuid "94f31d40-1469-4748-b120-f07cb5f1392a")
 		(pts
 			(xy -5.66 5.35) (xy 0 0)
@@ -320,7 +320,7 @@
 		(orientation 0)
 		(gr_text "5.66 mm"
 			(at -2.83 -3.65 0)
-			(layer "Dwgs.User")
+			(layer "User.1")
 			(uuid "94f31d40-1469-4748-b120-f07cb5f1392a")
 			(effects
 				(font
@@ -345,7 +345,7 @@
 	)
 	(dimension
 		(type orthogonal)
-		(layer "Dwgs.User")
+		(layer "User.1")
 		(uuid "fa8cea51-9536-4458-ace2-799acbf3bd6d")
 		(pts
 			(xy -14.48 1.05) (xy -14.48 9.65)
@@ -354,7 +354,7 @@
 		(orientation 1)
 		(gr_text "8.60 mm"
 			(at -19.15 5.35 90)
-			(layer "Dwgs.User")
+			(layer "User.1")
 			(uuid "fa8cea51-9536-4458-ace2-799acbf3bd6d")
 			(effects
 				(font

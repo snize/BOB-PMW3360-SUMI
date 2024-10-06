@@ -8,9 +8,9 @@ PMW3360用のコンパクトで低コストなブレイクアウトボードで�
 - 手はんだでの実装を前提とし手はんだ用のパッドサイズと間隔を採用
 - 基板の中心とOptical Centerが一致するように配置
 
-## 寸法/Dimensions
+## 寸法図/Dimensions
 
-20mm x 30mm
+![寸法図](img/BOB-PMW3360-sumi-dimensions.png)
 
 ## 回路図/Schematic
 
