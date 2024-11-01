@@ -18,6 +18,10 @@ PMW3360用のコンパクトで低コストなブレイクアウトボードで�
 
 ![回路図](img/BOB-PMW3360-sumi.svg)
 
+## KiCanvasで見る
+
+https://kicanvas.org/?github=https://github.com/snize/BOB-PMW3360-SUMI
+
 ## 部品表/BOM
 
 | Reference | Value          | Qty  |
