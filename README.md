@@ -8,11 +8,12 @@ PMW3360用のコンパクトで低コストなブレイクアウトボードで�
 
 - 3.3Vのみで動作に限定することで部品点数を削減し低コスト・コンパクト化
 - 手はんだでの実装を前提とし手はんだ用のパッドサイズと間隔を採用
-- 基板の中心とOptical Centerが一致するように配置
+- 平面的には基板の中心とOptical Centerが一致するように配置
+- 立体的にはレンズ部の厚みは約3.4mm(PMW3610は約4.0mm)で若干の違いあり
 
 ## 寸法図/Dimensions
 
-![寸法図](img/BOB-PMW3360-sumi-dimensions.png)
+![寸法図](img/BOB-PMW3360-sumi.png)
 
 ## 回路図/Schematic
 
@@ -34,8 +35,22 @@ https://kicanvas.org/?github=https://github.com/snize/BOB-PMW3360-SUMI
 | U1        | TLV70019DDCR   | 1    |
 | U2        | PMW3360DM-T2QU | 1    |
 
+## 使用フォント/Font
+
+本プロジェクトでは、**Departure Mono** フォントを使用しています。[rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono)
+
 ## ライセンス/License
 
 This project is licensed under the CERN OHL-P v2.
 You may use, distribute, and modify this design under the terms of the CERN OHL-P v2.
 Original design by snize.
+
+### 本プロジェクトを利用する場合について
+
+- 著作権表示とライセンスの表示を残してください
+- issueなどで利用した旨を報告していただけると作者が喜びます
+  - 作例にバックリンクさせていただきます
+
+## 本プロジェクトを利用した作例
+
+- 
