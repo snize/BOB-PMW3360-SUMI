@@ -53,4 +53,6 @@ Original design by snize.
 
 ## 本プロジェクトを利用した作例
 
-- 
+DiscussionsやSNSでお知らせください！
+
+- [SouthernCrossTB（後付けトラックボール）](https://github.com/snize/BOB-PMW3360-SUMI/discussions/2) by [snize](https://x.com/snize)
