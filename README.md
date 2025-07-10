@@ -55,4 +55,6 @@ Original design by snize.
 
 DiscussionsやSNSでお知らせください！
 
+- [HtCt44](https://github.com/snize/BOB-PMW3360-SUMI/discussions/5) by [sasadango-Jpn](https://github.com/sasadango-Jpn)
+- [ortho47t](https://github.com/snize/BOB-PMW3360-SUMI/discussions/4) by [たかまる](https://x.com/Takamaru_FPV)
 - [SouthernCrossTB（後付けトラックボール）](https://github.com/snize/BOB-PMW3360-SUMI/discussions/2) by [snize](https://x.com/snize)
